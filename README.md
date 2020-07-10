@@ -25,7 +25,7 @@ Quiz: So What's The Cloud Anyway?
 
     * On-demand self-service
 
-    * Scripting as a Service
+    * **Scripting as a Service**
 
     * Resource pooling
 
@@ -37,13 +37,13 @@ Quiz: So What's The Cloud Anyway?
 
     * HTTP(S) Load Balancer
 
-    * Compute Engine
+    * **Compute Engine**
 
     * Virtual private cloud
 
 3. Select the PaaS resource from the available options.
 
-    * App Engine
+    * **App Engine**
 
     * Cloud Functions
 
